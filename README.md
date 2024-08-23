@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/09904469-0ce8-4fcf-bdec-6eae082bd788)index.html
+index.html
 <!DOCTYPE html>
 <html lang="es">
 <head>
