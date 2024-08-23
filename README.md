@@ -1,4 +1,4 @@
-index.html
+![image](https://github.com/user-attachments/assets/09904469-0ce8-4fcf-bdec-6eae082bd788)index.html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -146,30 +146,30 @@ index.html
             <p>En Voidhead transformamos ideas en realidades visuales impresionantes. Somos una empresa apasionada por el arte conceptual, el modelado 3D y la fotografía, dedicada a ofrecer servicios y formación de la más alta calidad.</p>
             <p>Creemos en el poder del arte para transformar y comunicar. Cada proyecto que emprendemos es una oportunidad para explorar nuevas fronteras creativas y técnicas. Nos esforzamos por superar las expectativas de nuestros clientes y estudiantes, proporcionando resultados excepcionales y una experiencia educativa enriquecedora.</p>
       <div class="image-container">
-                <img src="C:\Users\diego\Desktop\rasputia\uno.jfif">
-                <img src="C:\Users\diego\Desktop\rasputia\dos.jfif">
-                <img src="C:\Users\diego\Desktop\rasputia\tres.jfif">
+                <img src="https://i.pinimg.com/736x/05/61/7f/05617f67eb4ad8279ba9044089effa01.jpg">
+                <img src="https://i.pinimg.com/736x/6f/fd/2c/6ffd2cbb89f843a1030d58433dd6b44a.jpg">
+                <img src="https://i.pinimg.com/736x/42/12/fc/4212fce0c3f971e6da6051d0f9219775.jpg">
             </div>
         </section>
     <section id="servicios" class="services">
             <p>Ya sea que busques servicios profesionales de arte conceptual y modelado 3D, o desees mejorar tus habilidades en programas de diseño o fotografía, Voidhead es tu aliado perfecto. Explora nuestros servicios para descubrir consejos, tutoriales, y las últimas novedades en el mundo del arte digital.</p>
             <h2>Servicios</h2>
             <div class="service-item">
-                <img src="C:\Users\diego\Desktop\rasputia\putamadre.jfif" alt="Cursos y Talleres">
+                <img src="https://i.pinimg.com/736x/ae/cb/02/aecb0222c35c49d99e1c850898d23a49.jpg" alt="Cursos y Talleres">
                 <div>
                     <h2>📸 Cursos y Talleres</h2>
                     <p>Cursos y talleres prácticos muy intuitivos y divertidos sobre diseño, fotografía y mucho más.</p>
                 </div>
             </div>
             <div class="service-item">
-                <img src="C:\Users\diego\Desktop\rasputia\nazi.jfif" alt="Modelado 3D">
+                <img src="https://i.pinimg.com/736x/8e/c6/e0/8ec6e0096ec3d21930234360f8b25ec7.jpg" alt="Modelado 3D">
                 <div>
                     <h2>🎨 Modelado 3D</h2>
                     <p>Experiencia en modelado 3D con trabajos de alta calidad.</p>
                 </div>
             </div>
             <div class="service-item">
-                <img src="C:\Users\diego\Desktop\rasputia\carro.jfif" alt="Ilustraciones Personalizadas">
+                <img src="https://i.pinimg.com/736x/1d/fb/2a/1dfb2a9907a28734c60df8eb25e3f189.jpg" alt="Ilustraciones Personalizadas">
                 <div>
                     <h2>🖌️ Ilustraciones Personalizadas</h2>
                     <p>Dibujos o composiciones personalizadas. Recursos creativos, guías, entre otros.</p>
