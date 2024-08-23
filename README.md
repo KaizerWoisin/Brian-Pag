@@ -20,7 +20,7 @@ index.html
             position: relative;
         }
         header img {
-            max-width: 120px;
+            width: 120px;
             height: auto;
             float: left;
             margin-top: 40px;
