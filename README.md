@@ -133,7 +133,7 @@ index.html
 </head>
 <body>
     <header>
-        <img src="https://i.pinimg.com/736x/72/71/b0/7271b0d406ca6bd359d7c230c9853ac5.jpg"
+        <img src="https://i.pinimg.com/736x/c9/4a/6b/c94a6bb34757bee8f39fc638b2adf297.jpg">
         <nav>
             <a href="#empresa">Empresa</a>
             <a href="#personal">Acerca de mí</a>
@@ -177,7 +177,7 @@ index.html
             </div>
         </section>
    <section class="portfolio">
-            <img src="C:\Users\diego\Desktop\rasputia\file.png" alt="Foto personalizable">
+            <img src="https://i.pinimg.com/736x/a6/37/5b/a6375b5c2002a36ba64324128a1dbe6b.jpg">
             <p>¡Hola, soy Brian Abreu!<br><br>
             Apasionado del arte visual con gusto por la animación, arte digital y atención al detalle que me han dotado de un estilo artístico libre y expresivo que deseo compartir contigo a través de mi trabajo y las diversas herramientas que ofrece este sitio web. ¡Hecha un vistazo!</p>
         </section>
