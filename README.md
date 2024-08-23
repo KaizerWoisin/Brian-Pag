@@ -133,12 +133,7 @@
 </head>
 <body>
     <header>
-        <img src="">
-        <nav>
-            <a href="#empresa">Empresa</a>
-            <a href="#personal">Acerca de mí</a>
-            <a href="#servicios">Servicios</a>
-        </nav>
+        <img src="asd">
     </header>
   <div class="container">
         <section class="intro">
