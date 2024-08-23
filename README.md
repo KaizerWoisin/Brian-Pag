@@ -133,7 +133,7 @@ index.html
 </head>
 <body>
     <header>
-        <img src="https://i.pinimg.com/736x/72/71/b0/7271b0d406ca6bd359d7c230c9853ac5.jpg">
+        <img src="https://i.pinimg.com/736x/72/71/b0/7271b0d406ca6bd359d7c230c9853ac5.jpg"
         <nav>
             <a href="#empresa">Empresa</a>
             <a href="#personal">Acerca de mí</a>
