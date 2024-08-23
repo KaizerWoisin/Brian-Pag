@@ -1,10 +1,10 @@
-"index.html"
+index.html
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog de Arte Conceptual y Diseño</title>
+    <title>Voidhead Art Studio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -133,7 +133,12 @@
 </head>
 <body>
     <header>
-        <img src="asd">
+        <img src="https://i.pinimg.com/736x/72/71/b0/7271b0d406ca6bd359d7c230c9853ac5.jpg"
+        <nav>
+            <a href="#empresa">Empresa</a>
+            <a href="#personal">Acerca de mí</a>
+            <a href="#servicios">Servicios</a>
+        </nav>
     </header>
   <div class="container">
         <section class="intro">
@@ -172,7 +177,7 @@
             </div>
         </section>
    <section class="portfolio">
-            <img src="https://i.pinimg.com/736x/a6/37/5b/a6375b5c2002a36ba64324128a1dbe6b.jpg">
+            <img src="https://i.pinimg.com/736x/a6/37/5b/a6375b5c2002a36ba64324128a1dbe6b.jpg" alt="Foto personalizable">
             <p>¡Hola, soy Brian Abreu!<br><br>
             Apasionado del arte visual con gusto por la animación, arte digital y atención al detalle que me han dotado de un estilo artístico libre y expresivo que deseo compartir contigo a través de mi trabajo y las diversas herramientas que ofrece este sitio web. ¡Hecha un vistazo!</p>
         </section>
